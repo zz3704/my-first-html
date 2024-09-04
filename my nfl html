@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        
+    </script>
+</head>
+<body>
+    
+    <div class="my_div">
+        <img src="./nfl image/logo.png">
+    </div>
+    <hr style="border:solid">
+
+    <table>
+        <tr>
+            <th style="width: 80%;"></th>
+            <th scope="col">경기장 정보</th>
+            <th scope="col">선수 정보</th>
+            <th scope="col"> 경기 일정</th>
+        </tr>
+    </table>
+    <div>
+        <img src="./nfl image/banner.jpg">
+    </div>
+    
+    
+    
+    
+</body>
+
+</html>
+
+
+
